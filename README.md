@@ -1,4 +1,4 @@
-# Resume as an npm Package 💼
+<img width="1247" height="848" alt="Screenshot 2025-09-14 141208" src="https://github.com/user-attachments/assets/822a325d-3496-441b-83ce-9eaf60f02cea" /># Resume as an npm Package 💼
 
 This project provides Mahesh Pawar's resume as an installable npm package. It allows you to quickly view the resume details directly in your terminal. It's a convenient way to access and share resume information.
 
@@ -6,6 +6,7 @@ This project provides Mahesh Pawar's resume as an installable npm package. It al
 📸 **Screenshots**
 
 
+<img width="1247" height="848" alt="Screenshot 2025-09-14 141208" src="https://github.com/user-attachments/assets/a5d199d2-c948-41f3-bcf8-07a55ed866cd" />
 
 🚀 **Key Features**
 
