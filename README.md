@@ -1,4 +1,4 @@
-
+## NPM Package:
 This project provides Mahesh Pawar's resume as an installable npm package. It allows you to quickly view the resume details directly in your terminal. It's a convenient way to access and share resume information.
 
 
